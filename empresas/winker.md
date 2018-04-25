@@ -6,7 +6,9 @@ http://www.winker.com.br
 
 - PHP5.6, PHP7
   - Yii Framework 1.X
+  - Zend Expressive 3
   - Lumen 5.X
+  - Doctrine 2
   - Composer
   - PHPUnit
 - Plataformas Opensource
@@ -20,7 +22,7 @@ http://www.winker.com.br
 - REST API (Cliente e Servidor)
 - SOAP (Cliente)
 - Interface
-  - AngularJS 1.X
+  - AngularJS 1.X / 5.X
   - Bootstrap 3.X
   - SASS (Syntactically Awesome Style Sheets)
   - JQuery
@@ -29,6 +31,7 @@ http://www.winker.com.br
 - Métricas/Análises
   - MixPanel
   - Google Analytics
+  - Pipz
 - AWS
   - Database
     - RDS (Aurora)
