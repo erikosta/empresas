@@ -4,23 +4,21 @@ A maior plataforma do Brasil (estamos em Floripa!) que integra, facilita e otimi
 
 http://www.winker.com.br
 
-- PHP5.6, PHP7
+- PHP7
   - Yii Framework 1.X
+  - Zend Framework
   - Lumen 5.X
   - Composer
   - PHPUnit
 - Plataformas Opensource
   - WordPress (Blog)
-  - Magento (Marketplace)
-- Nginx
-- Docker
-- Ionic (IOS & Android)
-- Git
-- Jira (Issue Tracking)
+  - Ionic 3 (IOS & Android)
+  - Git
 - REST API (Cliente e Servidor)
 - SOAP (Cliente)
-- Interface
-  - AngularJS 1.X
+- Jira (Issue Tracking)
+- Frontend
+  - AngularJS 1.X, 5.X
   - Bootstrap 3.X
   - SASS (Syntactically Awesome Style Sheets)
   - JQuery
@@ -29,10 +27,12 @@ http://www.winker.com.br
 - Métricas/Análises
   - MixPanel
   - Google Analytics
+- Server
+  - Nginx
+  - Docker
 - AWS
   - Database
     - RDS (Aurora)
-    - Dynamodb
     - ElastiCache (Redis)
   - Compute
     - EC2
